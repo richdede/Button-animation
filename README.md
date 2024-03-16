@@ -7,12 +7,12 @@
   <br />
   <br />
 
-  <h2 align="center">Button animation/h2>
+  <h2 align="center">Button animation </h2>
 
 On a project i was working on the animation was looking confusing, <br/> so i created another folder to test my button animation and ended up coming up with 4 different variants
 Hover and see for yourself
 
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://button-animation-eight.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
